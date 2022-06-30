@@ -71,7 +71,7 @@
 ## Online Coding Platform Profile:
 <a href="https://leetcode.com/AasthaChaudhary/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.codechef.com/users/aastha9634"><img src="https://img.icons8.com/ios/50/ffffff/codechef.png"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.codechef.com/users/aastha9634"><img src="https://img.icons8.com/ios/50/00000/codechef.png"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://codeforces.com/profile/chaudhary_Aastha"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://auth.geeksforgeeks.org/user/aasthachaudhary237/practice"><img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.codingninjas.com/codestudio/profile/4af5c365-f12e-4bdc-b5a1-8853d92b3880"><img src="https://img.icons8.com/fluency/48/000000/ninja-head.png"/></a>
