@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **aastha.1923co1026@kiet.edu**
 
-- ⚡ Fun fact **I love to read books and listen music**
+- ⚡ Fun fact **If I could live anywhere in the world, it would be Santorini, Greece**
 
 ## 🚀 Languages and Tools:
 
