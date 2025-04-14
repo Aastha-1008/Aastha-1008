@@ -21,7 +21,7 @@
 
 <h2> GitHub :heart: </h2>
 
-<div align = "center">
+<div align = "left">
 
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
