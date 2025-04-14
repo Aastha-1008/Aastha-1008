@@ -1,41 +1,32 @@
-<a href="#"><img width="100%" height="auto" src="./img1.png" height="150px"/></a>
+<h2> 🙋‍♀️ Knock knock... Who’s there? It’s Aastha! Ready to sprinkle some magic! ✨</h2>
+<div align="center">
+<img src = "https://octodex.github.com/images/baracktocat.jpg" height="300" width="300" />
 
-<h1 align="center">Hello  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Everyone ... </h1>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aastha-chaudhary-4b21271a0/)
+[![GMAIL Badge](https://img.shields.io/badge/-Mail-FF0000?style=for-the-badge&labelColor=&logo=gmail&logoColor=white)](mailto:aastha.chaudhary237@gmail.com)
+[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&labelColor=&logo=medium&logoColor=white)](https://medium.com/@aastha.chaudhary237)
+[![stack-overflow](https://img.shields.io/badge/-StackOverflow-cb410b?style=for-the-badge&labelColor=&logo=stackoverflow&logoColor=black)](https://stackoverflow.com/users/21210488/aasthachaudhary?tab=profile)
+[![Leetcode](https://img.shields.io/badge/-Leetcode-cb410b?style=for-the-badge&labelColor=&logo=leetcode&logoColor=black)](https://leetcode.com/u/AasthaChaudhary/)
+
+</div>
+
+<h2>:woman_technologist: Languages and Tools</h2>
+<p align="left"> 
+<a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" height="40" width="40"/></a>
+<a href="https://aws.amazon.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" height="40" width="40"/></a>
+<a href="https://www.java.com/en/" target="_blank"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" height="40" width="40"/></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
+<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  </p>
+
+<h2> GitHub :heart: </h2>
+
+<div align = "center">
+
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
 
-## 🙋‍♂️ About Me
 
-
-- 🌱 I’m currently learning
-   **Data Structures and Algorithms,**
-   **ReactJs  And NodeJs**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-<!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
-
-- 📫 How to reach me **aastha.1923co1026@kiet.edu**
-
-- ⚡ Fun fact **If I could live anywhere in the world, it would be Santorini, Greece**
-
-## 🚀 Languages and Tools:
-
-<p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="http://www.cplusplus.org/" ><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
-    <a href=""><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-</p>
 <br/>
 
 <p align="center">
@@ -57,19 +48,8 @@
 
 
 <br/>
-<br/>
 
-<a href=""><img alt="Aastha Chaudhary's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Aastha-1008&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<br/>
-<br/>
-
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/aastha-chaudhary-4b21271a0/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-
-</p>
 
 ## Online Coding Platform Profile:
 <a href="https://leetcode.com/AasthaChaudhary/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/></a>
